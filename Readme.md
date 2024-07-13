@@ -4,10 +4,10 @@ a.k.a. Pongwiwat Limpasuthum
 Contact me: pongwiwat.dev@gmail.com
 
 ## Programming Language
-![](https://skills.thijs.gg/icons?i=c,cpp,py,ts,js,java,php,go,cs&theme=dark)
+![](https://skillicons.dev/icons?i=c,cpp,py,ts,js,java,php,go,cs&theme=dark)
 
 ## Others
-![](https://skills.thijs.gg/icons?i=html,css,git,docker,prisma&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,git,docker,prisma&theme=dark)
 
 ## Education
 - Suankularb Wittayalai
